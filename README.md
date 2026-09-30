@@ -32,7 +32,7 @@
 <br/>
 
 <!-- Interactive Preview Window Mockup -->
-<a href="[https://www.example.com](https://krishi-sahay.onrender.com/)"> <img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/2dbb188a-f267-4ce3-acf2-4cb25f2207cf" /> </a>
+<a href="https://krishi-sahay.onrender.com/"> <img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/2dbb188a-f267-4ce3-acf2-4cb25f2207cf" /> </a>
 
 
 <br/>
