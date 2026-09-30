@@ -1,30 +1,53 @@
 # Krishi Sahay (कृषि सहाय) 🌾
 ### National Digital Public Good Agriculture Intelligence Network
 
-[![Production Status](https://img.shields.io/badge/Status-Production--Ready-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/bhuvnaaaaaa/Krishi-Sahay)
+[![Live Prototype](https://img.shields.io/badge/Live_Prototype-🚀_Launch_App-10b981?style=for-the-badge&logo=render&logoColor=white)](https://krishi-sahay.onrender.com/)
+[![Pitch Deck](https://img.shields.io/badge/Pitch_Deck-📄_Download_PDF-f59e0b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER01029482/1790789422155-KrishiSahayPitchDeck.pdf)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvnaaaaaa/Krishi-Sahay)
 [![React 19](https://img.shields.io/badge/React-19.0.1-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8.3.0-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.3.3-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Google Gemini API](https://img.shields.io/badge/Google_Gemini-Multimodal_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Digital Public Good](https://img.shields.io/badge/DPI-AgriStack_2.0-143D23?style=for-the-badge)](https://github.com/bhuvnaaaaaa/Krishi-Sahay)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
-🌐 Live Interactive Demonstration
+
+## 🔗 Project Links & Official Artifacts
+
+| Resource | Direct Link | Description |
+|---|---|---|
+| **🌐 Working Prototype (Production)** | [**https://krishi-sahay.onrender.com/**](https://krishi-sahay.onrender.com/) | Live full-stack cloud deployment on Render |
+| **⚡ High-Speed Cloud Mirror** | [**Launch Mirror Deployment**](https://ais-pre-xa5o4nkunlf5ycfczrsza4-261499016849.asia-southeast1.run.app) | Low-latency Google Cloud Run prototype mirror |
+| **📊 Presentation / Pitch Deck (PDF)** | [**Download Pitch Deck Slides (PDF)**](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER01029482/1790789422155-KrishiSahayPitchDeck.pdf) | Official architectural & business deck |
+| **🐙 Public GitHub Source** | [**github.com/bhuvnaaaaaa/Krishi-Sahay**](https://github.com/bhuvnaaaaaa/Krishi-Sahay) | Open-source MIT repository |
+
+---
+
+## 🌐 Live Interactive Demonstration
+
 <div align="center">
-CLICK HERE TO OPEN LIVE APPLICATION
-Direct Cloud Deployment URL:
-https://ais-pre-xa5o4nkunlf5ycfczrsza4-261499016849.asia-southeast1.run.app
+
+### **[CLICK HERE TO OPEN LIVE APPLICATION (krishi-sahay.onrender.com)](https://krishi-sahay.onrender.com/)**
+
 <br/>
-<a href="https://ais-pre-xa5o4nkunlf5ycfczrsza4-261499016849.asia-southeast1.run.app" target="_blank" rel="noopener noreferrer">
-<img src="./preview-mockup.svg" alt="Krishi Sahay Live Application Dashboard Preview" width="100%" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.35);" />
+
+<!-- Interactive Preview Window Mockup -->
+<a href="https://krishi-sahay.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./preview-mockup.svg" alt="Krishi Sahay Live Application Dashboard Preview" width="100%" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.35);" />
 </a>
+
 <br/>
-💡 Click the preview window above to test real-time Multimodal Vision, Sentinel-2 Spectral bands, Mandi rates, and Vernacular Voice TTS directly in your browser.
+
+<sub>💡 <i>Click the preview window above to test real-time Multimodal Vision, Sentinel-2 Spectral bands, Mandi rates, and Vernacular Voice TTS directly in your browser.</i></sub>
+
 </div>
+
+---
+
 ## 📑 Table of Contents
 
+- [🔗 Project Links & Official Artifacts](#-project-links--official-artifacts)
+- [🌐 Live Interactive Demonstration](#-live-interactive-demonstration)
 - [1. System Thesis & Overview](#1-system-thesis--overview)
 - [2. System Architecture](#2-system-architecture)
   - [2.1 High-Level Architecture Diagram](#21-high-level-architecture-diagram)
