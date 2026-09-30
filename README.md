@@ -32,13 +32,10 @@
 <br/>
 
 <!-- Interactive Preview Window Mockup -->
-<a href="https://krishi-sahay.onrender.com/" target="_blank" rel="noopener noreferrer">
-  <img src="./preview-mockup.svg" alt="Krishi Sahay Live Application Dashboard Preview" width="100%" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.35);" />
-</a>
+<a href="[https://www.example.com](https://krishi-sahay.onrender.com/)"> <img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/2dbb188a-f267-4ce3-acf2-4cb25f2207cf" /> </a>
+
 
 <br/>
-
-<sub>💡 <i>Click the preview window above to test real-time Multimodal Vision, Sentinel-2 Spectral bands, Mandi rates, and Vernacular Voice TTS directly in your browser.</i></sub>
 
 </div>
 
