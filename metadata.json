@@ -1,0 +1,6 @@
+{
+  "name": "Samvaad Krishi - Interoperable AI Agriculture Network",
+  "description": "National cooperative agricultural intelligence network delivering real-time satellite agro-advisories, multimodal crop disease diagnosis, and cross-state climate resilience data exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
