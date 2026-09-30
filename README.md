@@ -11,7 +11,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
-
+🌐 Live Interactive Demonstration
+<div align="center">
+CLICK HERE TO OPEN LIVE APPLICATION
+Direct Cloud Deployment URL:
+https://ais-pre-xa5o4nkunlf5ycfczrsza4-261499016849.asia-southeast1.run.app
+<br/>
+<a href="https://ais-pre-xa5o4nkunlf5ycfczrsza4-261499016849.asia-southeast1.run.app" target="_blank" rel="noopener noreferrer">
+<img src="./preview-mockup.svg" alt="Krishi Sahay Live Application Dashboard Preview" width="100%" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.35);" />
+</a>
+<br/>
+💡 Click the preview window above to test real-time Multimodal Vision, Sentinel-2 Spectral bands, Mandi rates, and Vernacular Voice TTS directly in your browser.
+</div>
 ## 📑 Table of Contents
 
 - [1. System Thesis & Overview](#1-system-thesis--overview)
